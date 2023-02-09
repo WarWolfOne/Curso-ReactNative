@@ -1,0 +1,6 @@
+node_modules = dependencias do projeto.
+assets = arquivos como icones e imagens do projeto.
+App.js = arquivo principal do projeto.
+
+no App.js esta uma fução de custom componente chamada pessoa sendo
+chamada na função principal como exemplo.
